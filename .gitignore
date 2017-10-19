@@ -1,0 +1,14 @@
+syntax: glob
+bin/
+obj/
+.vs/
+*.cache
+*.suo
+*.user
+*.orig
+*.rar
+packages/*
+build/*
+resources/*
+_UpgradeReport_Files/*
+
